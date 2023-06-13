@@ -1,0 +1,10 @@
+* Simple-Finalizer
+
+A simple finalizer for Common Lisp when using CFFI
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Balooga/Simple-Finalizer.git   |
+| commit  | 200b7dc  |
+| systems | Simple-Finalizer |
+|---------+-------------------------------------------|
+
